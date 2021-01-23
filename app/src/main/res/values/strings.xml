@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AttendanceSystemApp</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="weeks">
+        <item>Hafta 1</item>
+        <item>Hafta 2</item>
+        <item>Hafta 3</item>
+        <item>Hafta 4</item>
+        <item>Hafta 5</item>
+        <item>Hafta 6</item>
+        <item>Hafta 7</item>
+        <item>Hafta 8</item>
+        <item>Hafta 9</item>
+        <item>Hafta 10</item>
+        <item>Hafta 11</item>
+        <item>Hafta 12</item>
+        <item>Hafta 13</item>
+        <item>Hafta 14</item>
+    </string-array>
+</resources>
